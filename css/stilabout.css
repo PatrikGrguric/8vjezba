@@ -1,0 +1,80 @@
+body {
+	background-image: url(../slike/background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-position: center;
+}
+
+.heading {
+	position: absolute;
+	left: 0%; top: 0%; right: 0%; bottom: 20px;
+	background: #111111;
+	height: 150px;
+	text-align: center;
+}
+
+.naslov {
+	position: absolute;
+	top: 20px;
+	bottom:0px;
+	left: 90px; 
+	right: auto; 
+	color: white;
+	font-size: 72px;
+	margin: 0px;
+	text-align: center;
+}
+
+.table{
+	position: absolute;
+	top: 49px; bottom: 0px; left: 0px; right: 0px;
+	font-size: 25px;
+	display: inline;
+	padding: 50px;
+	margin: 10px;
+}
+
+td,a {
+	padding: 10px 15px 10px 15px;
+	color: white;
+	text-decoration: none;
+}
+
+a:link {
+	color:white;
+}
+
+a:active {
+	color:#0090d6;
+}
+
+a:hover {
+	color:#0090d6;
+}
+
+.okvir1 {
+	position: absolute;
+	top: 200px;
+	height: 700px;
+	width: 800px;
+	border-style: ;
+	border-width: ;
+	border-color: ;
+	border-right: ;
+	border-right-style: ;
+	border-right-width: ;
+	border-right-color: ;
+	border-left: ;
+	border-left-style: ;
+	border-left-width: ;
+	border-left-color: ;
+	border-top: ;
+	border-top-style: ;
+	border-top-width: ;
+	border-top-color: ;
+	border-bottom: ;
+	border-bottom-style: ;
+	border-bottom-width: ;
+	border-bottom-color: ;
+}

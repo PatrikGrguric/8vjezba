@@ -1,0 +1,73 @@
+body {
+	background: linear-gradient(to right, #1c1c1c, #3a3a3a , #1c1c1c);
+}
+
+.heading {
+	position: absolute;
+	left: 0%; top: 0%; right: 0%; bottom: 20px;
+	background: #111111;
+	height: 150px;
+	text-align: center;
+}
+
+.naslov {
+	position: absolute;
+	top: 20px;
+	bottom:0px;
+	left: 90px; 
+	right: auto; 
+	color: white;
+	font-size: 72px;
+	margin: 0px;
+}
+
+table{
+	position: absolute;
+	top: 49px; bottom: 0px; left: 0px; right: 0px;
+	font-size: 25px;
+	display: inline;
+	padding: 50px;
+	margin: 10px;
+}
+
+td,a {
+	padding: 10px 15px 10px 15px;
+	color: white;
+	text-decoration: none;
+}
+
+a:link {
+	color:white;
+}
+
+a:hover {
+	color:#0090d6;
+}
+
+.okvir1 {
+	position: absolute;
+	left: 405px; top: 200px; right: 45px; bottom: 20px;
+	background: #111111;
+	height: 500px;
+	width: 800px;
+	}
+	
+.okvir2 {
+	position: absolute;
+	left: 45px; top: 200px; right: 0px; bottom: 0px;
+	background: #111111;
+	height: 500px;
+	width: 300px;
+	color: white;
+	padding: 5px;
+	}
+	
+	.video1 {
+		float: right;
+	}
+	
+	.tekst1 {
+		float: left;
+	}
+	
+	
